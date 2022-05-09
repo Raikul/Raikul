@@ -10,9 +10,9 @@ Personal Webpage --- Heroku App with React.js, accessing a Node.js backend
 
 ## Games
 
-[Pune Experiment](https://github.com/Raikul/PuneExperiment) --- C# and Unity
+[Pune Experiment](https://github.com/Raikul/PuneExperiment) --- C# and Unity personal project
 
-[Como te explico](https://github.com/Raikul/Como-te-explico) --- Game in GODOT for the Global Game Jam.
+[Como te explico](https://github.com/Raikul/Como-te-explico) --- C# and Unity for the Global Game Jam
 <!---
 Raikul/Raikul is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
