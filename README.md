@@ -1,4 +1,4 @@
-# Full-Stack Web and Game Developer
+# Full-Stack Web Developer
 ✨My Techs: C# .NET, React.js, Node.js, MongoDB, Sequelize, SQL.
 ## Front-end and Full Stack
 
