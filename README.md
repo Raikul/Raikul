@@ -2,11 +2,7 @@
 ✨My Techs: C# .NET, React.js, Node.js, SQL.
 ## Front-end and Full Stack
 
-Personal Webpage --- Heroku App with React.js, accessing ba Node.js
-
-**Front-End/Full Stack**
-
-
+Personal Webpage --- Heroku App with React.js, accessing a Node.js backend
 
 ## Back-end
 
