@@ -9,6 +9,7 @@ Personal Webpage --- Heroku App with React.js, accessing a Node.js backend
 ## Back-end
 
 [Movie Database](https://github.com/Raikul/alkemy2) @ Alkemy Challenge --- REST API with Node.js, Express, Sequelize, Postman
+[Deployed in Heroku] (https://alkemy-movie-db.herokuapp.com/ )
 
 ## Games
 
