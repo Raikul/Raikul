@@ -6,9 +6,11 @@ Personal Webpage --- Heroku App with React.js, accessing a Node.js backend
 
 [Customer Database](https://github.com/Raikul/baenterprises) @ React+Node REST Api with simple views for a freelance position.
 
+[Member List](https://github.com/Raikul/devskillsadv) @ React Challenge with API interaction
+
 ## Back-end
 
-[Movie Database](https://github.com/Raikul/alkemy2) @ Alkemy Challenge --- REST API with Node.js, Express, Sequelize, Postman
+[Movie Database](https://github.com/Raikul/alkemy2) @ Alkemy Challenge --- REST API with Node.js, Express & Sequelize
 [Deployed in Heroku] (https://alkemy-movie-db.herokuapp.com/ )
 
 ## Games
