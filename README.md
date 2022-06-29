@@ -1,5 +1,5 @@
 # Full-Stack Web Developer
-✨My Techs: C# .NET, React.js, Node.js, MongoDB, Sequelize, SQL.
+✨My Techs: React.js, Node.js, MongoDB, Sequelize, SQL, C# .NET, 
 ## Front-end and Full Stack
 
 [Personal Webpage](https://tenchuu-testing.herokuapp.com/) --- Heroku App with React.js, accessing a Node.js backend
