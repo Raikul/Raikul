@@ -2,7 +2,7 @@
 ✨My Techs: React.js, Node.js, MongoDB, Sequelize, SQL, C# .NET, 
 ## Front-end and Full Stack
 
-[Personal Webpage](https://tenchuu-testing.herokuapp.com/) --- Heroku App with React.js, accessing a Node.js backend
+[Personal Webpage](https://tenchuu-versatile-optimizer-client.vercel.app/) --- Vercel App with React.js, accessing a Node.js backend
 
 [Calendar](https://github.com/Raikul/jobsity-challenge) --- @ Jobsity -- Calendar with Reminders and Weather Forecasts - React/Redux/ChakraUI
 
